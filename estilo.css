@@ -12,7 +12,7 @@ header {
 	width: 1000px;
 	height: 350px;
 	background-color: #0CC7A1;
-	background-image:url(Img/banner12.png);
+	background-image:url(Img/header.png);
 }
 nav{
 	width: 1000px;
@@ -57,6 +57,11 @@ h3{
 	font-size:16px;
 	color:#0CF;
 }
+.segundo {
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-size:16px;
+	color:rgb(47, 245, 129);
+}
 p {
 	color: #050505;
 	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
@@ -78,4 +83,9 @@ footer{
 	background-color: #10A34A;
 	background-image:url(Img/foter.png);
 	clear: both;
+}
+a img{
+	max-width: 250px;
+	max-height: 80px;
+	
 }
