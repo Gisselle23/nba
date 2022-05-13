@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{
+	left: 50%;
+	position: absolute;
+	background-attachment: fixed;
+	margin-left:-500px;
+}
+header {
+	width: 1000px;
+	height: 350px;
+	background-color: #0CC7A1;
+	background-image:url(Img/banner12.png);
+}
+nav{
+	width: 1000px;
+	height: 70px;
+	background-image:url(Img/nav.png);
+	
+}
+
+section{
+	width: 75%;
+	height: 480px;
+	float: right;
+	margin-left: 5%;
+	background-image:url(Img/section.png);
+	
+}
+
+}
+aside{
+	float: left;
+	width: 35%;
+	height: 600px;
+	background-position: 10%;
+	position: absolute;
+	margin-left: 10%;
+	background-image: url(Img/aside.png);
+	
+}
+
+
+
+h1 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color:#0CF;
+	alignment-adjust:auto;
+
+}
+
+h3{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	color:#0CF;
+}
+p {
+	color: #050505;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	margin-right: 80%;
+}
+article{
+	width: 180px;
+	height: 280px;
+	background-color:#403EEC;
+	float:right;
+	margin:1%;
+	
+}	
+
+footer{
+	width: 1000px;
+	height: 280px;
+	background-color: #10A34A;
+	background-image:url(Img/foter.png);
+	clear: both;
+}
